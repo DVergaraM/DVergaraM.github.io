@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e24cc35.css",
+    "main.js": "/static/js/main.e2b88951.js",
+    "static/media/dispositivo-ambulancia.png": "/static/media/dispositivo-ambulancia.e8f15888faa061b75c33.png",
+    "static/media/dispositivo-horno-microondas.png": "/static/media/dispositivo-horno-microondas.9f5e2357853df6c87e26.png",
+    "static/media/dispositivo-torre-de-control.png": "/static/media/dispositivo-torre-de-control.fff504e3070fc13342cd.png",
+    "static/media/dispositivo-computador.png": "/static/media/dispositivo-computador.0b7dee7f265839a5a94e.png",
+    "static/media/dispositivo-camara-digital.png": "/static/media/dispositivo-camara-digital.f77c4cf87df54080c7a8.png",
+    "index.html": "/index.html",
+    "main.1e24cc35.css.map": "/static/css/main.1e24cc35.css.map",
+    "main.e2b88951.js.map": "/static/js/main.e2b88951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e24cc35.css",
+    "static/js/main.e2b88951.js"
+  ]
+}

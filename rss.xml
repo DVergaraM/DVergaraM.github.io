@@ -4,9 +4,56 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 01:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Horario]]></title>
+            <guid>540a4cb421dd4817843b0b8189129986</guid>
+            <pubDate>Thu, 18 Jul 2024 13:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[<p>C1: Ciclo 1 de 8 semanas<br />
+C2: Ciclo 2 de 8 semanas</p>
+<table>
+<thead>
+<tr>
+<th>NRC</th>
+<th>Materia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10982</td>
+<td>Constitución</td>
+</tr>
+<tr>
+<td>38976</td>
+<td>Cálculo Diferencial</td>
+</tr>
+<tr>
+<td>72586</td>
+<td>Complementaria Diferencial</td>
+</tr>
+<tr>
+<td>55472</td>
+<td>Intro Ing.</td>
+</tr>
+<tr>
+<td>63318</td>
+<td>Lógica</td>
+</tr>
+<tr>
+<td>51529</td>
+<td>Escritura 1 (C1)</td>
+</tr>
+<tr>
+<td>51655</td>
+<td>Escritura 2 (C2)</td>
+</tr>
+</tbody>
+</table>
+<p><img src="/_resources/e65540bb77dc4e0ca4b5c88f14ed0086.png" /></p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Notas reunión admitidos]]></title>
             <guid>ca2d1b338e61444cb91926c919409daf</guid>
@@ -22,7 +69,7 @@
 <p><img src="/_resources/14a622322cc4421c95466fa144df1168.png" /></p>
 <p><img src="/_resources/34369bc0a4cd4a8c8bb0e029bbde6f46.png" /></p>
 <p><span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em"></span><span class="mrel">⇒</span></span></span></span></span> <a title="https://registro.uniandes.edu.co/index.php/calendario-academico-2024/calendario-2024-para-cursos-16-semanas" href="https://registro.uniandes.edu.co/index.php/calendario-academico-2024/calendario-2024-para-cursos-16-semanas">Calendario Académico</a><br />
-<img src="/_resources/8c38bca6247248818e4c966f502083cf.png" /></p>
+<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em"></span><span class="mrel">⇒</span></span></span></span></span> <a title="https://aspirantes.uniandes.edu.co/sites/default/files/guia-uniandina/2024/GUIA2024-2-final.pdf" href="https://aspirantes.uniandes.edu.co/sites/default/files/guia-uniandina/2024/GUIA2024-2-final.pdf">Guia Uniandina</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -43,11 +90,11 @@
             <guid>e46145270dd043d5a5302041bcd492c0</guid>
             <pubDate>Fri, 05 Jul 2024 05:59:09 GMT</pubDate>
             <content:encoded><![CDATA[<ul>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-25" checked="checked" /><label id="cb-label-md-checkbox-25" for="md-checkbox-25" class="checkbox-label-checked">Agendar la cita con la oficina de pregado de ISIS (Correo)</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-26" checked="checked" /><label id="cb-label-md-checkbox-26" for="md-checkbox-26" class="checkbox-label-checked">Webinar de Elaboración de Horario <a title="https://cutt.ly/pefnQXvB" href="https://cutt.ly/pefnQXvB">Click</a>, Clave: 202420</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-27" /><label id="cb-label-md-checkbox-27" for="md-checkbox-27" class="checkbox-label-unchecked">Reunión de Bienvenida de Admitidos <a title="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989" href="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989">Click</a> 17/07/2024 6:00pm <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em"></span><span class="mrel">⇒</span></span></span></span></span> 8:00pm</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-28" checked="checked" /><label id="cb-label-md-checkbox-28" for="md-checkbox-28" class="checkbox-label-checked">Armar horario para peor de los casos 16/07/2024 4:00pm</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-29" /><label id="cb-label-md-checkbox-29" for="md-checkbox-29" class="checkbox-label-unchecked">Matricular materias 18/07/2024 8:00am</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-0" checked="checked" /><label id="cb-label-md-checkbox-0" for="md-checkbox-0" class="checkbox-label-checked">Agendar la cita con la oficina de pregado de ISIS (Correo)</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-1" checked="checked" /><label id="cb-label-md-checkbox-1" for="md-checkbox-1" class="checkbox-label-checked">Webinar de Elaboración de Horario <a title="https://cutt.ly/pefnQXvB" href="https://cutt.ly/pefnQXvB">Click</a>, Clave: 202420</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-2" /><label id="cb-label-md-checkbox-2" for="md-checkbox-2" class="checkbox-label-unchecked">Reunión de Bienvenida de Admitidos <a title="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989" href="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989">Click</a> 17/07/2024 6:00pm <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em"></span><span class="mrel">⇒</span></span></span></span></span> 8:00pm</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-3" checked="checked" /><label id="cb-label-md-checkbox-3" for="md-checkbox-3" class="checkbox-label-checked">Armar horario para peor de los casos 16/07/2024 4:00pm</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-4" /><label id="cb-label-md-checkbox-4" for="md-checkbox-4" class="checkbox-label-unchecked">Matricular materias 18/07/2024 8:00am</label></div></li>
 </ul>
 ]]></content:encoded>
         </item>

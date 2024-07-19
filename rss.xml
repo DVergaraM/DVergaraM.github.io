@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 16:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -38,8 +38,8 @@ C2: Ciclo 2 de 8 semanas</p>
 <td>Intro Ing.</td>
 </tr>
 <tr>
-<td>63318</td>
-<td>Lógica</td>
+<td>68929</td>
+<td>DPOO</td>
 </tr>
 <tr>
 <td>51529</td>
@@ -51,7 +51,7 @@ C2: Ciclo 2 de 8 semanas</p>
 </tr>
 </tbody>
 </table>
-<p><img src="/_resources/e65540bb77dc4e0ca4b5c88f14ed0086.png" /></p>
+<p><img src="/_resources/2b2417333c7746c693e984627e953261.png" /></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -80,7 +80,7 @@ C2: Ciclo 2 de 8 semanas</p>
 <p><a href="/article/tasks">Tasks</a><br />
 <a>Development</a><br />
 <a>Reads</a><br />
-<a>Services</a></p>
+<a href="/article/services">Services</a></p>
 <h2 id="universidad">Universidad</h2>
 <p><a>Retiros</a></p>
 ]]></content:encoded>
@@ -90,11 +90,18 @@ C2: Ciclo 2 de 8 semanas</p>
             <guid>e46145270dd043d5a5302041bcd492c0</guid>
             <pubDate>Fri, 05 Jul 2024 05:59:09 GMT</pubDate>
             <content:encoded><![CDATA[<ul>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-0" checked="checked" /><label id="cb-label-md-checkbox-0" for="md-checkbox-0" class="checkbox-label-checked">Agendar la cita con la oficina de pregado de ISIS (Correo)</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-1" checked="checked" /><label id="cb-label-md-checkbox-1" for="md-checkbox-1" class="checkbox-label-checked">Webinar de Elaboración de Horario <a title="https://cutt.ly/pefnQXvB" href="https://cutt.ly/pefnQXvB">Click</a>, Clave: 202420</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-2" /><label id="cb-label-md-checkbox-2" for="md-checkbox-2" class="checkbox-label-unchecked">Reunión de Bienvenida de Admitidos <a title="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989" href="%5Bhttps://uniandes-edu-co.zoom.us/j/86050048989">Click</a> 17/07/2024 6:00pm <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em"></span><span class="mrel">⇒</span></span></span></span></span> 8:00pm</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-3" checked="checked" /><label id="cb-label-md-checkbox-3" for="md-checkbox-3" class="checkbox-label-checked">Armar horario para peor de los casos 16/07/2024 4:00pm</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-4" /><label id="cb-label-md-checkbox-4" for="md-checkbox-4" class="checkbox-label-unchecked">Matricular materias 18/07/2024 8:00am</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-1" /><label id="cb-label-md-checkbox-1" for="md-checkbox-1" class="checkbox-label-unchecked">Realizar la prueba de inglés | 29/07/2024</label></div></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <guid>db5eb00f87fb4e8aa6dfb7320f8a0826</guid>
+            <pubDate>Wed, 19 Jun 2024 21:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>Tags:</strong> <code>services</code></p>
+<ul>
+<li>Amazon: <a title="https://www.amazon.com/hz/wishlist/ls/123V8LEAVDNPE?ref_=wl_share" href="https://www.amazon.com/hz/wishlist/ls/123V8LEAVDNPE?ref_=wl_share">Wishlist</a></li>
+<li>Spotify: <a title="https://open.spotify.com/playlist/6UA5PpnYV3P9j2saxBxp8p?si=KwDaU1uiSGqD1QtG97HA7g" href="https://open.spotify.com/playlist/6UA5PpnYV3P9j2saxBxp8p?si=KwDaU1uiSGqD1QtG97HA7g">Me Playlist</a></li>
 </ul>
 ]]></content:encoded>
         </item>
